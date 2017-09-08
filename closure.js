@@ -11,4 +11,4 @@ var mjName = celebrityName("Michael")
 
 mjName = ("Jackson")
 //console.log(mjName)
-console.log(celebrityName)
+//console.log(celebrityName)
