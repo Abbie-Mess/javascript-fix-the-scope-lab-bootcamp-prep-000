@@ -39,5 +39,5 @@ function party(){
   console.log ( "Let's Party!" )
 }
 
-party()
-console.log(party)
+var Birthday = party()
+console.log(Birthday)
