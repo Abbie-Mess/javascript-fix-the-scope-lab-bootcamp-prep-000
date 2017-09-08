@@ -20,17 +20,9 @@ function add2(n) {
   return n + two
 }
 
-var funkyFunction = function(x) {
-  var x
-  var y
-  x=y
-  console.log(x)
-  console.log(y)
-  return function(y) {
-    y= "FUNKY!"
-    console.log(x)
-    console.log(y)
-    return y
+var funkyFunction = function() {
+  return function() {
+    return "FUNKY!"
   }
 }
 
@@ -39,9 +31,6 @@ var funkyFunction = function(x) {
 
 var theFunk = funkyFunction()
 console.log(theFunk)
-
-var theFunk2 = funkyFunction()
-console.log(theFunk2)
 
 var bicycle = 10
 console.log(bicycle)
