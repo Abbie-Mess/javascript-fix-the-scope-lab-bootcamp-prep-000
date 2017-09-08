@@ -36,7 +36,7 @@ console.log(theFunk)
 
 
 function party(){
-  return "Let's Party!"
+  console.log ( "Let's Party!" )
 }
 
 party()
