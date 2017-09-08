@@ -33,7 +33,7 @@ var theFunk = funkyFunction()
 console.log(`theFunk`)
 
 var theFunk2 = funkyFunction()
-console.log(theFunk2)
+console.log(`theFunk2`)
 
 var bicycle = 10
 console.log(bicycle)
