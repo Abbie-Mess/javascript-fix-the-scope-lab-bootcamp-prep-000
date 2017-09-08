@@ -24,8 +24,12 @@ var funkyFunction = function(x) {
   var x
   var y
   x=y
+  console.log(x)
+  console.log(y)
   return function(y) {
     y= "FUNKY!"
+    console.log(x)
+    console.log(y)
     return y
   }
 }
