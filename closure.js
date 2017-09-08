@@ -6,5 +6,5 @@ function celebrityName(firstName){
   return lastName
 }
 
-var mjName - celebrityName("Michael")
+var mjName = celebrityName("Michael")
 mjName = ("Jackson")
