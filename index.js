@@ -30,11 +30,14 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 
 var theFunk=funkyFunction()
-console.log(theFunk)
+//console.log(theFunk)
 theFunk()
 console.log(theFunk)
 
 
+function party(){
+  return "Let's Party!"
+}
 
-var bicycle = 10
-console.log(bicycle)
+party()
+console.log(party)
