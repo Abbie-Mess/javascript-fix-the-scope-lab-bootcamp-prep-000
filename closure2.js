@@ -10,5 +10,5 @@ var mrName = celebrityName("Andy")
 console.log(mrName)
 
 mrName = ("Hoopers")
-console.log(mjName)
+console.log(mrName)
 console.log(celebrityName)
