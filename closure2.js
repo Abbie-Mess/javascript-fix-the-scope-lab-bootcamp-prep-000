@@ -3,7 +3,7 @@ function celebrityName(firstName){
   function lastName(theSurName){
     return nameIntro + firstName + " " + theSurName;
   }
-  return lastName;
+  return lastName();
 }
 
 var myName = celebrityName("Andy")
