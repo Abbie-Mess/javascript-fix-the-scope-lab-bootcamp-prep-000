@@ -1,14 +1,14 @@
 function celebrityName(firstName){
   var nameIntro = "This celebrity is ";
-  function lastName(theLastNam){
-    return nameIntro + firstName + " " + theLastNam;
+  function lastName(theSurName){
+    return nameIntro + firstName + " " + theSurName;
   }
-  return lastName()
+  return lastName;
 }
 
-var mrName = celebrityName("Andy")
-console.log(mrName)
+var myName = celebrityName("Andy")
+console.log(myName)
 
-mrName = ("Hoopers")
-console.log(mrName)
+myName = ("Hoopers")
+console.log(myName)
 console.log(celebrityName)
