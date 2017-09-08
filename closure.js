@@ -11,3 +11,4 @@ console.log(mjName)
 
 mjName = ("Jackson")
 console.log(mjName)
+console.log(celebrityName)
