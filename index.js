@@ -30,10 +30,10 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 
 var theFunk = funkyFunction()
-console.log(`theFunk`)
+console.log(theFunk)
 
 var theFunk2 = funkyFunction()
-console.log(`theFunk2`)
+console.log(theFunk2)
 
 var bicycle = 10
 console.log(bicycle)
