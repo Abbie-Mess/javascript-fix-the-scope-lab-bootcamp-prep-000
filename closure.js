@@ -7,7 +7,7 @@ function celebrityName(firstName){
 }
 
 var mrName = celebrityName("Andy")
-console.log(mjName)
+console.log(mrName)
 
 //mjName = ("Jackson")
 //console.log(mjName)
