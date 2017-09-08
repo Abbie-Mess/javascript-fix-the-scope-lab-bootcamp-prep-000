@@ -35,9 +35,5 @@ console.log(`theFunk`)
 var theFunk2 = funkyFunction()
 console.log(theFunk2)
 
-
-function function(){
-}
-
 var bicycle = 10
 console.log(bicycle)
