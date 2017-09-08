@@ -6,7 +6,7 @@ function celebrityName(firstName){
   return lastName()
 }
 
-var mjName = celebrityName("Michael")
+var mjName = celebrityName("Andy")
 console.log(mjName)
 
 //mjName = ("Jackson")
