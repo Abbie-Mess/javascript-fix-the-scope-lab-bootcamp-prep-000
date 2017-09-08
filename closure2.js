@@ -9,6 +9,6 @@ function celebrityName(firstName){
 var myName = celebrityName("Andy")
 console.log(myName)
 
-myName("Hoopers")
+myName ("Hoopers")
 console.log(myName)
 console.log(celebrityName)
